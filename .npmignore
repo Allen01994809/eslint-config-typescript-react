@@ -3,4 +3,5 @@
 .gitignore
 node_modules
 package.json
+.eslintrc.js
 
