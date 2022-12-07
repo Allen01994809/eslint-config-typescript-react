@@ -1,4 +1,4 @@
-# eslint-config
+# eslint-config-typescript-react
 
 ## .eslintrc.js
 
@@ -10,8 +10,6 @@ module.exports = {
 }
 ```
 
-# eslint-config-typescript
-
 ## getting started
 
 ### npm
@@ -22,4 +20,3 @@ module.exports = {
 
 `npm install --save-dev eslint @allen-packages/eslint-config-typescript-react`
 
-# eslint-config-typescript-react
